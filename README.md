@@ -3,13 +3,12 @@
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 Nb. Door _open_ toe te voegen aan een _details_ element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 ## Jij
 
-<details open>
+<details>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
@@ -22,23 +21,23 @@ Nb. Door _open_ toe te voegen aan een _details_ element kun je deze standaard op
 
 #### Je focus:
 
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive
 
 </details>
 
 ## Je website
 
-<details open>
+<details>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
 
-  [I'm an inline-style link](https://www.benjerry.nl/"BenandJerry")
+(https://www.benjerry.nl/)
 
 #### Screenshot(s) van de eerste pagina (small screen):
 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="images/Mobile_Home_BenandJerry.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
