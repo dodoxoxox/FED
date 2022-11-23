@@ -36,13 +36,13 @@ Nb. Door _open_ toe te voegen aan een _details_ element kun je deze standaard op
 
 #### Screenshot(s) van de eerste pagina (small screen):
 
-  hier de naam van de pagina  
-  <img src="images/Mobile_Home_BenandJerry.png" width="375px" alt="omschrijving van de pagina">
+  Ben & Jerry  
+  <img src="images/Mobile_Home_BenandJerry.png" width="375px" alt="Homepagina Ben & Jerry in mobiel weergave">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="images/Mobile_Detailpagina.png" width="375px" alt="Detail pagina Ben & Jerry ijssmaak Netflix and Chill in mobiel weergave">
 
 </details>
 
