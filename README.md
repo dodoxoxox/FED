@@ -36,13 +36,13 @@ Nb. Door _open_ toe te voegen aan een _details_ element kun je deze standaard op
 
 #### Screenshot(s) van de eerste pagina (small screen):
 
-  Ben & Jerry  
+  Homepagina Ben & Jerry mobiel weergave
   <img src="images/Mobile_Home_BenandJerry.png" width="375px" alt="Homepagina Ben & Jerry in mobiel weergave">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
-  hier de naam van de pagina  
-  <img src="images/Mobile_Detailpagina.png" width="375px" alt="Detail pagina Ben & Jerry ijssmaak Netflix and Chill in mobiel weergave">
+  Detail pagina Ijsmaak Netflix & Chill'd mobiel weergave
+  <img src="images/Mobile_Detailpagina.png" width="375px" alt="Detail pagina Ben & Jerry ijssmaak Netflix and Chill'd in mobiel weergave">
 
 </details>
 
@@ -57,9 +57,24 @@ Nb. Door _open_ toe te voegen aan een _details_ element kun je deze standaard op
 
 #### Screenreader
 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+Windows Narrator laat het website meerdere keren crashen: 5x in totaal.
+Leest de Ben&Jerry logo in de hoofdnavigatie balk als "homepagina"
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Kan van uit de hoofdnavigatie niet tussen de menu items navigeren zonder een muis.
+Kan ook met toetsenbord maar dan zou je door alle subitems moeten gaan.
+
+Gebruik de optie om alle headings
+voor te laten lezen. Is de structuur
+logisch?
+- Structuur is logisch
+
+Gebruik de optie om alle linkjes voor
+te laten lezen. Is het duidelijk wat de
+linkjes doen?
+- Het is duidelijk hoe elk koppeling heet, maar niet altijd duidelijk waar het heen gaat.
+
+<img src="images/Screenreader_Pint_Voorlezen.png" width="375px" alt="Homepagina Ben & Jerry in mobiel weergave">
+Na 4x klikken krijg je pas te horen wat de smaak Karamel Sutra inhoudt.
 
 #### Muis en Toetsenbord
 
