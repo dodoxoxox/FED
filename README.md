@@ -98,8 +98,8 @@ Niet alle elementen worden op een logische manier geselecteerd.
 Subtiele verandering van kleur in de tekst 'Lees meer'. Button zelf kantelt een beetje als je met de muis erover heen hovert.
 
 - Focus en Active
-<img scr="images/Button_Leesmeer_Active.png" alt="afbeelding button lees meer state focus en active"
-Heel subtiel een gestippelt kader om de button heen als focus en active. 
+<img scr="images/Button_Leesmeer_Active.png" alt="afbeelding button lees meer state focus en active"> 
+Heel subtiel een gestippelt kader om de button heen als focus en active.
 
 #### Motoriek (shocks, elastiekjes)
 
