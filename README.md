@@ -63,14 +63,11 @@ Leest de Ben&Jerry logo in de hoofdnavigatie balk als "homepagina"
 Kan van uit de hoofdnavigatie niet tussen de menu items navigeren zonder een muis.
 Kan ook met toetsenbord maar dan zou je door alle subitems moeten gaan.
 
-Gebruik de optie om alle headings
-voor te laten lezen. Is de structuur
-logisch?
+1. Gebruik de optie om alle headings voor te laten lezen. Is de structuur logisch?
 - Structuur is logisch
 
-Gebruik de optie om alle linkjes voor
-te laten lezen. Is het duidelijk wat de
-linkjes doen?
+2. Gebruik de optie om alle linkjes voor te laten lezen.
+Is het duidelijk wat de linkjes doen?
 - Het is duidelijk hoe elk koppeling heet, maar niet altijd duidelijk waar het heen gaat.
 
 <img src="images/Screenreader_Pint_Voorlezen.png" width="375px" alt="Homepagina Ben & Jerry in mobiel weergave">
@@ -83,13 +80,26 @@ Na 4x klikken krijg je pas te horen wat de smaak Karamel Sutra inhoudt.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
-  1. Alle links, buttons en form elementen
-met het toetsenbord geselecteerd en
-bediend kunnen worden.
-2. De elementen in een logische volgorde
-geselecteerd worden.
-3. De verschillende states (hover, focus,
-active) voor elk element uitgewerkt zijn.
+1. Alle links, buttons en form elementen met het toetsenbord geselecteerd en bediend kunnen worden.
+2. De elementen in een logische volgorde geselecteerd worden.
+- tab: Gaat door alle linkjes. Door de tab kan je door de pagina zelf heen navigeren.
+spatie: Springt verticaal naar beneden door de pagina heen. Kan niet verticaal omhoog gaan.
+enter: Werkt als een muisklik.
+pijltjes links/rechts: Op de homepagina doet het eerst niet veel. Pas na 1x tab gebruiken kan je door de onderdelen heen gaan met de pijltjes links/rechts.
+
+Duurt heel lang voordat je met alleen toetsenbord naar een form kan gaan. Eenmaal daar te zijn, kan je wel met pijltjestoetsen op een textfield staan en met enter naar de volgende textfield gaan.
+
+Niet alle elementen worden op een logische manier geselecteerd.
+
+
+3. De verschillende states (hover, focus, active) voor elk element uitgewerkt zijn.
+- Hover
+<img scr="images/Button_Leesmeer_Hover.png" alt="afbeelding button lees meer state hover">
+Subtiele verandering van kleur in de tekst 'Lees meer'. Button zelf kantelt een beetje als je met de muis erover heen hovert.
+
+- Focus en Active
+<img scr="images/Button_Leesmeer_Active.png" alt="afbeelding button lees meer state focus en active"
+Heel subtiel een gestippelt kader om de button heen als focus en active. 
 
 #### Motoriek (shocks, elastiekjes)
 
