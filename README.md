@@ -74,6 +74,7 @@ linkjes doen?
 - Het is duidelijk hoe elk koppeling heet, maar niet altijd duidelijk waar het heen gaat.
 
 <img src="images/Screenreader_Pint_Voorlezen.png" width="375px" alt="Homepagina Ben & Jerry in mobiel weergave">
+
 Na 4x klikken krijg je pas te horen wat de smaak Karamel Sutra inhoudt.
 
 #### Muis en Toetsenbord
@@ -81,6 +82,14 @@ Na 4x klikken krijg je pas te horen wat de smaak Karamel Sutra inhoudt.
   Hier korte omschrijving (met indien nodig afbeeldingen)
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+  1. Alle links, buttons en form elementen
+met het toetsenbord geselecteerd en
+bediend kunnen worden.
+2. De elementen in een logische volgorde
+geselecteerd worden.
+3. De verschillende states (hover, focus,
+active) voor elk element uitgewerkt zijn.
 
 #### Motoriek (shocks, elastiekjes)
 
